@@ -1,7 +1,7 @@
 # Movie-Recommendation-System
 This project implements a <strong>movie recommendation system</strong> using the <strong>cosine similarity algorithm</strong>. It employs a content-based filtering approach to recommend movies similar to a user's preferences.
 
-###Project Overview
+### Project Overview
         <p>
             This system utilizes movie metadata such as genres, keywords, directors, and more to represent each movie as a vector. 
             By calculating <strong>cosine similarity</strong> between these vectors, the system identifies movies that closely match the user's selected movie(s).
@@ -9,7 +9,7 @@ This project implements a <strong>movie recommendation system</strong> using the
     
 
     
-###Features
+### Features
         <ul>
             <li><strong>Personalized Recommendations:</strong> Suggests movies based on a user's selection.</li>
             <li><strong>Cosine Similarity Algorithm:</strong> Measures the similarity between movies using vectorized data.</li>
@@ -17,7 +17,7 @@ This project implements a <strong>movie recommendation system</strong> using the
     
 
     
-###Dependencies
+### Dependencies
         <ul>
             <li><strong>Python:</strong> Version 3.x (recommended)</li>
             <li><strong>Libraries:</strong>
@@ -30,7 +30,7 @@ This project implements a <strong>movie recommendation system</strong> using the
         </ul>
     
     
-###Installation
+### Installation
         <ol>
             <li>Clone the repository:
                 <pre><code>git clone https://github.com/smamodia/Movie-Recommendation-System.git</code></pre>
@@ -41,7 +41,7 @@ This project implements a <strong>movie recommendation system</strong> using the
         </ol>
     
     
-###Usage
+### Usage
         <ol>
             <li>Run the main script (replace <code>script_name.py</code> with the actual script):
                 <pre><code>python script_name.py</code></pre>
