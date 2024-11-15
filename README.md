@@ -1,26 +1,25 @@
 # Movie-Recommendation-System
-<header>
-        <h1>Movie Recommendation System</h1>
-        <p>This project implements a <strong>movie recommendation system</strong> using the <strong>cosine similarity algorithm</strong>. It employs a content-based filtering approach to recommend movies similar to a user's preferences.</p>
-    </header>
 
-    <section>
+        <p>This project implements a <strong>movie recommendation system</strong> using the <strong>cosine similarity algorithm</strong>. It employs a content-based filtering approach to recommend movies similar to a user's preferences.</p>
+
+
+    
         <h2>Project Overview</h2>
         <p>
             This system utilizes movie metadata such as genres, keywords, directors, and more to represent each movie as a vector. 
             By calculating <strong>cosine similarity</strong> between these vectors, the system identifies movies that closely match the user's selected movie(s).
         </p>
-    </section>
+    
 
-    <section>
+    
         <h2>Features</h2>
         <ul>
             <li><strong>Personalized Recommendations:</strong> Suggests movies based on a user's selection.</li>
             <li><strong>Cosine Similarity Algorithm:</strong> Measures the similarity between movies using vectorized data.</li>
         </ul>
-    </section>
+    
 
-    <section>
+    
         <h2>Dependencies</h2>
         <ul>
             <li><strong>Python:</strong> Version 3.x (recommended)</li>
@@ -32,9 +31,8 @@
                 </ul>
             </li>
         </ul>
-    </section>
-
-    <section>
+    
+    
         <h2>Installation</h2>
         <ol>
             <li>Clone the repository:
@@ -44,9 +42,8 @@
                 <pre><code>pip install library_name</code></pre>
             </li>
         </ol>
-    </section>
-
-    <section>
+    
+    
         <h2>Usage</h2>
         <ol>
             <li>Run the main script (replace <code>script_name.py</code> with the actual script):
@@ -55,4 +52,3 @@
             <li>The script will prompt you for a movie title or ID.</li>
             <li>The script will recommend movies most similar to your selection.</li>
         </ol>
-    </section>
