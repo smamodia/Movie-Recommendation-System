@@ -16,7 +16,7 @@ numpy (numerical computations)
 scikit-learn (cosine similarity calculation)
 
 
-<H1>Installation<H1>
+<H1>Installation</H1>
 Clone this repository:
 git clone "https://github.com/smamodia/Movie-Recommendation-System.git"
 
